@@ -31,6 +31,5 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## 📬 Contact
 
-Questions or partnership ideas?  
-→ [iotvisions.com](https://iotvisions.com) (coming soon)  
+Questions or partnership ideas?   
 → Email: TBD
