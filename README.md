@@ -1,72 +1,40 @@
 # DesertSense
 
-DesertSense is a modular IoT architecture designed to enable scalable, low-power environmental sensing in desert regions. Built around LoRaWAN communication and solar-powered sensors, the system enables autonomous monitoring of ecological and infrastructure parameters in off-grid, harsh environments.
-
-Focus Areas:
-
-🌞 Solar Farm Monitoring — Dust detection, performance tracking, irradiance sensing
-💧 Water Resource Management — Groundwater, well status, and irrigation flow
-🦎 Wildlife & Habitat Monitoring — GPS tracking and remote sensor telemetry
-🛣 Infrastructure Surveillance — Road, pipeline, and facility oversight
-📦 Architecture Overview
-
-LoRaWAN-enabled sensor nodes (low-power, long-range)
-
-Solar-powered gateways and edge nodes
-
-Optional edge processing to reduce bandwidth needs
-
-Designed for Sahara, Gobi, Chihuahuan, Tabernas and similar environments
-
-📘 White Paper
-
-The full technical white paper (PDF) will be available in the /docs folder. It covers:
-
-Use case architecture
-
-Deployment recommendations
-
-Pilot proposal and business relevance
-
-📄 License
-
-This work is licensed under the Creative Commons Attribution 4.0 (CC BY 4.0)See LICENSE.md
-
-👤 Author
-
-Created by Gergely György, DenserMeshFor contact or inquiries, visit: Coming soon
-
-
-**DesertSense** is a visionary IoT initiative focused on deploying LoRaWAN networks in global desert regions. It is part of the [DenserMesh](https://github.com/DenserMesh) organization, created by Geri G.
+**DesertSense** is a modular, low-power IoT architecture for monitoring environmental and infrastructure parameters in arid and semi-arid regions. Developed under the **DenserMesh** organization, it leverages LoRaWAN communication, solar-powered sensors, and optional edge computing to deliver sustainable, autonomous data collection in off-grid desert environments.
 
 ## 🌍 Project Overview
 
-DesertSense proposes a scalable cluster of LoRaWAN-based use cases tailored for desert environments, covering:
-- Solar farm monitoring
-- Water resource management
-- Wildlife tracking
-- Infrastructure surveillance
+DesertSense presents a scalable cluster of LoRaWAN-based use cases tailored to the extreme conditions of deserts like the Sahara, Gobi, Chihuahuan, and Tabernas. It provides a blueprint for deploying open, platform-agnostic IoT networks where traditional infrastructure is limited or non-existent.
 
-## 📄 White Paper
+## 🔍 Focus Areas
 
-This repository hosts the full 10-page PDF white paper, covering:
-- Global desert use cases
-- Technical architecture (LoRaWAN + solar + edge computing)
-- Pilot project designs
-- Next steps and collaborations
+- 🌞 **Solar Farm Monitoring** — Dust detection, performance analytics, irradiance sensing  
+- 💧 **Water Resource Management** — Groundwater levels, irrigation control, well status  
+- 🦎 **Wildlife & Habitat Monitoring** — GPS tracking and ecosystem telemetry  
+- 🛣 **Infrastructure Surveillance** — Monitoring pipelines, roads, and remote assets
 
-## 🔧 Technologies
+## 📦 Technical Architecture
 
-- LoRaWAN (platform-agnostic)
-- Solar-powered IoT nodes
-- Edge computing
-- Open source / scalable architecture
+- LoRaWAN-enabled sensor nodes with minimal power footprint  
+- Solar-powered gateways and optional edge computing for bandwidth optimization  
+- Autonomous operation with passive energy harvesting  
+- Platform-agnostic and adaptable to diverse environmental conditions
+
+## 📘 White Paper
+
+The full 10-page PDF white paper is available in the `/docs` folder. It includes:  
+- Global desert use case analysis  
+- System architecture and deployment recommendations  
+- Sample pilot project (Tabernas Desert)  
+- Strategic relevance and next steps
 
 ## 🛰️ License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+See [`LICENSE.md`](./LICENSE.md) for details.
 
-## 📬 Contact
+## 👤 Author
 
-Questions or partnership ideas?   
-→ Email: TBD
+Created by **Gergely György**  
+DenserMesh | [https://github.com/DenserMesh](https://github.com/DenserMesh)  
+Contact: *Coming soon*
