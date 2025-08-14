@@ -13,7 +13,7 @@ DesertSense presents a scalable cluster of LoRaWAN-based use cases tailored to t
 - 🦎 **Wildlife & Habitat Monitoring** — GPS tracking and ecosystem telemetry  
 - 🛣 **Infrastructure Surveillance** — Monitoring pipelines, roads, and remote assets
 
-## 📦 Technical Architecture
+## ⚙️ Technical Architecture
 
 - LoRaWAN-enabled sensor nodes with minimal power footprint  
 - Solar-powered gateways and optional edge computing for bandwidth optimization  
